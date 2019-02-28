@@ -1,0 +1,7 @@
+C:\Users\User-PC\source\repos\HomeWorkList\HomeWorkList\bin\Debug\HomeWorkList.exe.config
+C:\Users\User-PC\source\repos\HomeWorkList\HomeWorkList\bin\Debug\HomeWorkList.exe
+C:\Users\User-PC\source\repos\HomeWorkList\HomeWorkList\bin\Debug\HomeWorkList.pdb
+C:\Users\User-PC\source\repos\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.exe
+C:\Users\User-PC\source\repos\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.pdb
